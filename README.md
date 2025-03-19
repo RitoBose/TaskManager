@@ -1,6 +1,6 @@
 # Task Management API
 
-This project is a RESTful API for managing tasks built with **Spring Boot**, **Spring Security**, **Spring Data JPA**, and **Lombok**. The API supports secure JWT-based user authentication, full CRUD operations for tasks, pagination and filtering, caching for improved performance, and an efficient task scheduling system using a priority queue (min-heap). The project was developed under a tight 6‑hour deadline and includes unit tests using JUnit.
+This project is a RESTful API for managing tasks built with **Spring Boot**, **Spring Security**, **Spring Data JPA**, and **Lombok**. The API supports secure JWT-based user authentication and authorization of end points, full CRUD operations for tasks, pagination and filtering, caching for improved performance, and an efficient task scheduling system using a priority queue (min-heap). The project was developed under a tight 6‑hour deadline and includes unit tests using JUnit.
 
 ## Features
 
